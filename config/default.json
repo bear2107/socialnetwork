@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://bear21:bear21@cluster0-1yvxn.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtsecret": "mysecret",
+  "githubClientId": "cd8e65d30995c883e1c5",
+  "githubSecret": "2a28e85885c6acd0928c3eacea6877e0fc9d0993"
+}
